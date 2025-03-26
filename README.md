@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Annie, I'm interested in all things Python, SQL, Power BI & Data Science. 
+
 <!--
 **AnnieAnh/AnnieAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
